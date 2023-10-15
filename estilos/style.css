@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 html, boy {
@@ -58,7 +59,6 @@ section#redes-sociais  img {
     margin: 10px;
     border-radius: 50%;
     box-shadow: 3px 5px 5px 0px rgba(0, 0, 0, 0.712);
-    box-sizing: border-box;
     opacity: 70%;
     transition-duration: 0.5s;
 }
